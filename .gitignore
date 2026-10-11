@@ -1,0 +1,12 @@
+# Simulation build artifacts
+sim/
+*.out
+*.vvp
+
+# Large waveform dumps (regenerate with make test)
+waveforms/*.vcd
+
+# Editor / OS junk
+.DS_Store
+*.swp
+*~

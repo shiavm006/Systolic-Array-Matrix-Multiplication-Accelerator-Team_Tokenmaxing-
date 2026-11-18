@@ -22,7 +22,7 @@
 
 ## Remaining (demo / report / FPGA) — lab / write-up only
 
-- [ ] Phase I demo video link in README
+- [x] Phase I demo video link in README
 - [ ] Vivado synthesis: LUT / FF / DSP + Fmax (lab PC) — Phase II
 - [ ] Scaling study (more N), back-to-back matrices — Phase II
 - [ ] Final IEEE report (Results, Discussion, Conclusion) — Phase II

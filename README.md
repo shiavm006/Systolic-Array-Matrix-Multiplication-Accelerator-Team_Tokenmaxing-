@@ -8,7 +8,7 @@ for a B.Tech FPGA / HDL project (N = 3 or 4, signed INT8 × INT8 → INT32 accum
 | Item | Link |
 |------|------|
 | IEEE Phase I report (PDF) | [docs/phase1/IEEE_Phase1_Report.pdf](docs/phase1/IEEE_Phase1_Report.pdf) (LaTeX source: [docs/phase1/phase1_report.tex](docs/phase1/phase1_report.tex)) |
-| Prototype demo video (≤ 5 min) | **VIDEO_LINK_HERE** |
+| Prototype demo video (≤ 5 min) | [Google Drive Demo Video](https://drive.google.com/file/d/1Vb0xfEIgDCYd9dx4pUGvbpU77S77eyfh/view?usp=sharing) |
 | Block diagram | [docs/figures/block_diagram.png](docs/figures/block_diagram.png) |
 | Simulated waveform | [docs/figures/waveform_demo.png](docs/figures/waveform_demo.png) · GTKWave view: [docs/figures/gtkwave_demo.png](docs/figures/gtkwave_demo.png) (layout `waveforms/tb_demo.gtkw`) |
 | Prototype files | [rtl/](rtl/) (8 Verilog modules) · [tb/](tb/) (4 testbenches) · [Makefile](Makefile) |
